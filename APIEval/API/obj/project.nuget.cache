@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SrraHZWzBkc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jules\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\jules\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
