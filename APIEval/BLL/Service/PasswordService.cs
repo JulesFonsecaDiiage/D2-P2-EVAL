@@ -4,12 +4,6 @@ using BLL.ServiceContract;
 using DAL.Entity;
 using DAL.RepositoryContract;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace BLL.Service
 {

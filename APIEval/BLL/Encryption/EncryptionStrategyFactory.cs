@@ -12,7 +12,7 @@ namespace BLL.Encryption
 			{
 				nameof(ApplicationType.GrandPublic) => new AesEncryptionStrategy(),
 				nameof(ApplicationType.Professionnelle) => new RsaEncryptionStrategy(),
-				_ => throw new ArgumentException("Type d'application inconnu")
+				_ => throw new ArgumentException("Undefined Application's type")
 			};
 		}
 	}

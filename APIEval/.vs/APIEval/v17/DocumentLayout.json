@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7ACF8577-E28D-435D-A3A2-B25474801ED0}|BLL\\BLL.csproj|c:\\users\\jules\\onedrive\\documents\\diiage\\d2-p2\\eval\\d2-p2-eval\\apieval\\bll\\encryption\\aesencryptionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACF8577-E28D-435D-A3A2-B25474801ED0}|BLL\\BLL.csproj|solutionrelative:bll\\encryption\\aesencryptionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ACF8577-E28D-435D-A3A2-B25474801ED0}|BLL\\BLL.csproj|c:\\users\\jules\\onedrive\\documents\\diiage\\d2-p2\\eval\\d2-p2-eval\\apieval\\bll\\encryption\\encryptionstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ACF8577-E28D-435D-A3A2-B25474801ED0}|BLL\\BLL.csproj|solutionrelative:bll\\encryption\\encryptionstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7ACF8577-E28D-435D-A3A2-B25474801ED0}|BLL\\BLL.csproj|c:\\users\\jules\\onedrive\\documents\\diiage\\d2-p2\\eval\\d2-p2-eval\\apieval\\bll\\encryption\\rsaencryptionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7ACF8577-E28D-435D-A3A2-B25474801ED0}|BLL\\BLL.csproj|solutionrelative:bll\\encryption\\rsaencryptionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,44 +19,16 @@
       "RelativeMoniker": "D:0:0:{7ACF8577-E28D-435D-A3A2-B25474801ED0}|BLL\\BLL.csproj|solutionrelative:bll\\service\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F94FD56-FFEC-4582-8092-A43623ADA2E9}|API\\API.csproj|c:\\users\\jules\\onedrive\\documents\\diiage\\d2-p2\\eval\\d2-p2-eval\\apieval\\api\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F94FD56-FFEC-4582-8092-A43623ADA2E9}|API\\API.csproj|solutionrelative:api\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ACF8577-E28D-435D-A3A2-B25474801ED0}|BLL\\BLL.csproj|c:\\users\\jules\\onedrive\\documents\\diiage\\d2-p2\\eval\\d2-p2-eval\\apieval\\bll\\encryption\\encryptionstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ACF8577-E28D-435D-A3A2-B25474801ED0}|BLL\\BLL.csproj|solutionrelative:bll\\encryption\\encryptionstrategyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ACF8577-E28D-435D-A3A2-B25474801ED0}|BLL\\BLL.csproj|c:\\users\\jules\\onedrive\\documents\\diiage\\d2-p2\\eval\\d2-p2-eval\\apieval\\bll\\service\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ACF8577-E28D-435D-A3A2-B25474801ED0}|BLL\\BLL.csproj|solutionrelative:bll\\service\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F94FD56-FFEC-4582-8092-A43623ADA2E9}|API\\API.csproj|c:\\users\\jules\\onedrive\\documents\\diiage\\d2-p2\\eval\\d2-p2-eval\\apieval\\api\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F94FD56-FFEC-4582-8092-A43623ADA2E9}|API\\API.csproj|solutionrelative:api\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ACF8577-E28D-435D-A3A2-B25474801ED0}|BLL\\BLL.csproj|c:\\users\\jules\\onedrive\\documents\\diiage\\d2-p2\\eval\\d2-p2-eval\\apieval\\bll\\encryption\\aesencryptionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ACF8577-E28D-435D-A3A2-B25474801ED0}|BLL\\BLL.csproj|solutionrelative:bll\\encryption\\aesencryptionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ACF8577-E28D-435D-A3A2-B25474801ED0}|BLL\\BLL.csproj|c:\\users\\jules\\onedrive\\documents\\diiage\\d2-p2\\eval\\d2-p2-eval\\apieval\\bll\\encryption\\iencryptionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ACF8577-E28D-435D-A3A2-B25474801ED0}|BLL\\BLL.csproj|solutionrelative:bll\\encryption\\iencryptionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ACF8577-E28D-435D-A3A2-B25474801ED0}|BLL\\BLL.csproj|c:\\users\\jules\\onedrive\\documents\\diiage\\d2-p2\\eval\\d2-p2-eval\\apieval\\bll\\dto\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ACF8577-E28D-435D-A3A2-B25474801ED0}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7ACF8577-E28D-435D-A3A2-B25474801ED0}|BLL\\BLL.csproj|c:\\users\\jules\\onedrive\\documents\\diiage\\d2-p2\\eval\\d2-p2-eval\\apieval\\bll\\dto\\passworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7ACF8577-E28D-435D-A3A2-B25474801ED0}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\passworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F94FD56-FFEC-4582-8092-A43623ADA2E9}|API\\API.csproj|c:\\users\\jules\\onedrive\\documents\\diiage\\d2-p2\\eval\\d2-p2-eval\\apieval\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F94FD56-FFEC-4582-8092-A43623ADA2E9}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F94FD56-FFEC-4582-8092-A43623ADA2E9}|API\\API.csproj|c:\\users\\jules\\onedrive\\documents\\diiage\\d2-p2\\eval\\d2-p2-eval\\apieval\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F94FD56-FFEC-4582-8092-A43623ADA2E9}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F94FD56-FFEC-4582-8092-A43623ADA2E9}|API\\API.csproj|c:\\users\\jules\\onedrive\\documents\\diiage\\d2-p2\\eval\\d2-p2-eval\\apieval\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6F94FD56-FFEC-4582-8092-A43623ADA2E9}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6F94FD56-FFEC-4582-8092-A43623ADA2E9}|API\\API.csproj|c:\\users\\jules\\onedrive\\documents\\diiage\\d2-p2\\eval\\d2-p2-eval\\apieval\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F94FD56-FFEC-4582-8092-A43623ADA2E9}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,137 +78,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EncryptionStrategyFactory.cs",
-              "DocumentMoniker": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\Encryption\\EncryptionStrategyFactory.cs",
-              "RelativeDocumentMoniker": "BLL\\Encryption\\EncryptionStrategyFactory.cs",
-              "ToolTip": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\Encryption\\EncryptionStrategyFactory.cs",
-              "RelativeToolTip": "BLL\\Encryption\\EncryptionStrategyFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T12:34:28.441Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RsaEncryptionStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\Encryption\\RsaEncryptionStrategy.cs",
-              "RelativeDocumentMoniker": "BLL\\Encryption\\RsaEncryptionStrategy.cs",
-              "ToolTip": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\Encryption\\RsaEncryptionStrategy.cs",
-              "RelativeToolTip": "BLL\\Encryption\\RsaEncryptionStrategy.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAACoAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T12:25:06.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "AesEncryptionStrategy.cs",
               "DocumentMoniker": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\Encryption\\AesEncryptionStrategy.cs",
               "RelativeDocumentMoniker": "BLL\\Encryption\\AesEncryptionStrategy.cs",
               "ToolTip": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\Encryption\\AesEncryptionStrategy.cs",
               "RelativeToolTip": "BLL\\Encryption\\AesEncryptionStrategy.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCsAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T12:23:42.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IEncryptionStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\Encryption\\IEncryptionStrategy.cs",
-              "RelativeDocumentMoniker": "BLL\\Encryption\\IEncryptionStrategy.cs",
-              "ToolTip": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\Encryption\\IEncryptionStrategy.cs",
-              "RelativeToolTip": "BLL\\Encryption\\IEncryptionStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T12:22:51.348Z",
+              "WhenOpened": "2025-02-26T15:55:17.111Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PasswordService.cs",
-              "DocumentMoniker": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\Service\\PasswordService.cs",
-              "RelativeDocumentMoniker": "BLL\\Service\\PasswordService.cs",
-              "ToolTip": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\Service\\PasswordService.cs",
-              "RelativeToolTip": "BLL\\Service\\PasswordService.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAYwCIAAABKAAAAAAAAAA==",
+              "Title": "EncryptionStrategyFactory.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\Encryption\\EncryptionStrategyFactory.cs",
+              "RelativeDocumentMoniker": "BLL\\Encryption\\EncryptionStrategyFactory.cs",
+              "ToolTip": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\Encryption\\EncryptionStrategyFactory.cs",
+              "RelativeToolTip": "BLL\\Encryption\\EncryptionStrategyFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T12:08:33.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PasswordDto.cs",
-              "DocumentMoniker": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\DTO\\PasswordDto.cs",
-              "RelativeDocumentMoniker": "BLL\\DTO\\PasswordDto.cs",
-              "ToolTip": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\DTO\\PasswordDto.cs",
-              "RelativeToolTip": "BLL\\DTO\\PasswordDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T12:07:58.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ApplicationDto.cs",
-              "DocumentMoniker": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\DTO\\ApplicationDto.cs",
-              "RelativeDocumentMoniker": "BLL\\DTO\\ApplicationDto.cs",
-              "ToolTip": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\DTO\\ApplicationDto.cs",
-              "RelativeToolTip": "BLL\\DTO\\ApplicationDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T12:07:57.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApplicationService.cs",
-              "DocumentMoniker": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\Service\\ApplicationService.cs",
-              "RelativeDocumentMoniker": "BLL\\Service\\ApplicationService.cs",
-              "ToolTip": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\Service\\ApplicationService.cs",
-              "RelativeToolTip": "BLL\\Service\\ApplicationService.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwDMAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T10:28:21.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationController.cs",
-              "DocumentMoniker": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\API\\Controllers\\ApplicationController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\ApplicationController.cs",
-              "ToolTip": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\API\\Controllers\\ApplicationController.cs",
-              "RelativeToolTip": "API\\Controllers\\ApplicationController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T10:36:14.132Z",
+              "WhenOpened": "2025-02-26T15:55:11.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PasswordController.cs",
-              "DocumentMoniker": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\API\\Controllers\\PasswordController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\PasswordController.cs",
-              "ToolTip": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\API\\Controllers\\PasswordController.cs",
-              "RelativeToolTip": "API\\Controllers\\PasswordController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCAAAABEAAAAAAAAAA==",
+              "Title": "RsaEncryptionStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\Encryption\\RsaEncryptionStrategy.cs",
+              "RelativeDocumentMoniker": "BLL\\Encryption\\RsaEncryptionStrategy.cs",
+              "ToolTip": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\Encryption\\RsaEncryptionStrategy.cs",
+              "RelativeToolTip": "BLL\\Encryption\\RsaEncryptionStrategy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T10:35:54.699Z",
+              "WhenOpened": "2025-02-26T14:39:40.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
+              "Title": "PasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\Service\\PasswordService.cs",
+              "RelativeDocumentMoniker": "BLL\\Service\\PasswordService.cs",
+              "ToolTip": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\BLL\\Service\\PasswordService.cs",
+              "RelativeToolTip": "BLL\\Service\\PasswordService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:51:09.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T13:52:22.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\API\\appsettings.json",
               "RelativeDocumentMoniker": "API\\appsettings.json",
@@ -241,13 +156,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
               "ToolTip": "C:\\Users\\jules\\OneDrive\\Documents\\DIIAGE\\D2-P2\\EVAL\\D2-P2-EVAL\\APIEval\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T09:24:52.438Z",
               "EditorCaption": ""
