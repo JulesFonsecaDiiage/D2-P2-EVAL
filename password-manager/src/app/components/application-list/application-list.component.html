@@ -1,0 +1,23 @@
+<h2 class="mb-3">Liste des applications</h2>
+
+<div class="mb-3">
+    <button class="btn btn-primary" (click)="goToAddApplication()">Ajouter une Application</button>
+</div>
+
+<div class="table-responsive">
+    <table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+        <th>Nom de l'application</th>
+        <th>Type</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let app of apps">
+        <td>{{ app.name }}</td>
+        <td>{{ app.type }}</td>
+        </tr>
+    </tbody>
+    </table>
+</div>
+  

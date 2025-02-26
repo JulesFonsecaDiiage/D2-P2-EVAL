@@ -1,0 +1,16 @@
+<h2>Ajouter une application</h2>
+
+<form (submit)="addApplication()">
+  <div class="mb-3">
+    <label>Nom de l'application</label>
+    <input type="text" [(ngModel)]="appData.name" name="name" class="form-control" required>
+  </div>
+  <div class="mb-3">
+    <label>Type</label>
+    <select [(ngModel)]="appData.type" name="type" class="form-control">
+      <option *ngFor="let type of types" [value]="type.value">{{ type.label }}</option>
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary">Ajouter</button>
+</form>
+
